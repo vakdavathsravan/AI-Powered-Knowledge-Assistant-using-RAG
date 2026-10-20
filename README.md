@@ -1,4 +1,4 @@
-# 📚 Document Q&A Bot
+# AI-Powered Knowledge Assistant using RAG
 
 A Retrieval-Augmented Generation (RAG) application that enables users to ask questions about uploaded documents and receive context-aware answers using semantic search and Google Gemini.
 
